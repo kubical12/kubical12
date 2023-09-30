@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kubrastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kubrastic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kubra-roshi-05b931224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubra-roshi-05b931224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kubracodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubracodes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kubical_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kubical_/" height="30" width="40" /></a>
 </p>
 
